@@ -1,0 +1,25 @@
+{
+  "name": "xcvbnvcc",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    "fghjk": {
+      "id": "slDffD6gRMUvAycJy08tA",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": "fghjk"
+    }
+  },
+  "extendedDefault": false
+}
