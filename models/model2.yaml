@@ -1,0 +1,26 @@
+title: model2
+x-stoplight:
+  id: cnsn355xoqamx
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 2j00onfjpgkyb
+  dfg:
+    type: string
+    x-stoplight:
+      id: szocvikyygfu3
+  dfxcgvhb:
+    type: string
+    x-stoplight:
+      id: j93utheh7p6gc
+  ythj:
+    type: string
+    x-stoplight:
+      id: kgnh86rxezm4m
+  gfgvg:
+    type: string
+    x-stoplight:
+      id: r0h66lhphiwo1
+description: model2

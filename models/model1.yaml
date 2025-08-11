@@ -1,0 +1,35 @@
+title: model1
+x-stoplight:
+  id: zw4u2rb7rrfqp
+type: object
+properties:
+  id:
+    type: number
+    x-stoplight:
+      id: fyf6pdsn8aano
+  dfghjk:
+    type: integer
+    x-stoplight:
+      id: 4lttmcl7eycnu
+  fcghbjn:
+    x-stoplight:
+      id: kja0zgpo1i75j
+    enum: []
+  ghi:
+    type: array
+    x-stoplight:
+      id: hdmt7e73qwzvs
+    items: {}
+  fcgvhbj:
+    type: object
+    x-stoplight:
+      id: qe9znw775ler2
+    additionalProperties:
+      x-stoplight:
+        id: hto81jqiy53z2
+      type: object
+      additionalProperties:
+        x-stoplight:
+          id: 2ssugu4q3yiqy
+        type: boolean
+description: model56789

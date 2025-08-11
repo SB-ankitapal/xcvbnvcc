@@ -1,0 +1,26 @@
+title: model3
+x-stoplight:
+  id: 0wmvc0s1hef08
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: 1lmwrblic04t2
+  vfcfg:
+    type: string
+    x-stoplight:
+      id: n3i7kk2dvbcef
+  fdfcg:
+    type: string
+    x-stoplight:
+      id: ac3pxi36e0h41
+  fcgv:
+    type: string
+    x-stoplight:
+      id: pppcp5cjh7mwf
+  fcfg:
+    type: string
+    x-stoplight:
+      id: 3evdh3j9q53bv
+description: model34
