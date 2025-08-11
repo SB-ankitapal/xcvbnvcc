@@ -46,7 +46,7 @@ paths:
       tags:
         - Applications
       summary: GET Application Details
-      description: Returns application details for the given application id
+      description: Returns application details for the given application idmnmn
       operationId: GET_Application_Details_v0.1
       security:
         - LegacyAuthorizer: []
