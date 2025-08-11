@@ -2,6 +2,7 @@ title: model2
 x-stoplight:
   id: cnsn355xoqamx
 type: object
+description: model2
 properties:
   id:
     type: string
@@ -23,4 +24,7 @@ properties:
     type: string
     x-stoplight:
       id: r0h66lhphiwo1
-description: model2
+  refer:
+    $ref: ./model3.yaml
+    x-stoplight:
+      id: dhkfvpurk5x70

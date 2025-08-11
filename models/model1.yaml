@@ -2,6 +2,7 @@ title: model1
 x-stoplight:
   id: zw4u2rb7rrfqp
 type: object
+description: model56789
 properties:
   id:
     type: number
@@ -32,4 +33,7 @@ properties:
         x-stoplight:
           id: 2ssugu4q3yiqy
         type: boolean
-description: model56789
+  refer:
+    $ref: ./model2.yaml
+    x-stoplight:
+      id: 652g4a3hqj539
